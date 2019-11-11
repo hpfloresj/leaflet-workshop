@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>1-Simple basemap</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">        
+        <!--Import from CDN-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>        
+        <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
+        <style type="text/css">
+            html, body {
+              margin: 0;
+              height: 100%;
+            }
+            h2 {
+              margin: .5em;
+            }        
+            #mapid {
+              width: 100%;
+              height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="mapid"></div>
+        <script>
+            // Global variables
+            var geoserver_wms = 'http://gis.amazonicdata.com/geoserver/wms?';
+
+            // Set the position(center x,y) and zoom level of the map
+            var map = L.map('mapid').setView([-8.382373, -74.533036], 13);
+            
+            // Initialize the base layer by default
+            var osm_mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	              maxZoom: 19,
+	              attribution: '&copy; OSM Mapnik <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            });
+            
+            // Set default basemap
+            var manzanas_wms = L.tileLayer.wms(geoserver_wms, {
+              layers: 'geomap:manzanas',
+              format: 'image/png',
+              transparent: true,
+              version: '1.1.0',
+              attribution: "Geomap data"
+            }).addTo(map);
+            
+            // Create base layers group object
+            var baseLayers = {
+              "OSM Mapnik": osm_mapnik,
+              "Manzana catastral": manzanas_wms
+            }; 
+
+            var sectores_wms = L.tileLayer.wms(geoserver_wms, {
+              layers: 'geomap:sectores',
+              format: 'image/png',
+              transparent: true,
+              version: '1.1.0',
+              attribution: "Geomap data"
+            });
+            
+            // Create overlay layers group object
+            var overlayBase = {
+              "Sector catastral": sectores_wms
+            };
+
+            // set by default overlay
+            map.addLayer(sectores_wms);
+
+            // Add baseLayers & overlay to the map
+            L.control.layers(baseLayers, overlayBase).addTo(map);
+        </script>
+    </body>
+</html>
