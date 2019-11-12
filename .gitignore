@@ -1,33 +1,36 @@
 # ## Node ###
 node_modules
 logs
-* .log
+*.log
 pids
-* .pid
-* .seed
+*.pid
+*.seed
 .grunt
 .tmp
-build / release
+build/release
 .lock-wscript
 
 # ## Windows ###
 thumbs.db
 ehthumbs.db
 desktop.ini
-$ RECYCLE.BIN /
+$ RECYCLE.BIN/
 
 # ## OSX ###
 .DS_Store
 .AppleDouble
 .LSOverride
 Icon
-._ *
+._*
 .Spotlight-V100
 .Trashes
 
 # ## Project Files ###
-.idea /
-.idea_modules /
+.idea/
+.idea_modules/
 atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
-* .sublime-workspace
+*.sublime-workspace
+
+# Database
+.vscode/
