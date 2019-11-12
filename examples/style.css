@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+    font-family: "Omnes", sans-serif;
+}
+
+h2 {
+    margin: .5em;
+}
+
+#mapid {
+    width: 100%;
+    height: 100%;
+}
