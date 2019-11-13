@@ -1,0 +1,1452 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "gid": 1,
+                "cod_catast": "25010108067001",
+                "cod_manz": "08067",
+                "mz_cat": "067",
+                "sector": "08",
+                "lote": "001",
+                "cod_lote": "08067001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.544622887685534, -8.381107929326392]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 2,
+                "cod_catast": "25010108067015",
+                "cod_manz": "08067",
+                "mz_cat": "067",
+                "sector": "08",
+                "lote": "015",
+                "cod_lote": "08067015",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.544421252318301, -8.381267311857609]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3309,
+                "cod_catast": "25010102060030",
+                "cod_manz": "02060",
+                "mz_cat": "060",
+                "sector": "02",
+                "lote": "030",
+                "cod_lote": "02060030",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.528232759348768, -8.378711160202185]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3310,
+                "cod_catast": "25010102049001",
+                "cod_manz": "02049",
+                "mz_cat": "049",
+                "sector": "02",
+                "lote": "001",
+                "cod_lote": "02049001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.53075062901847, -8.37860989201754]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3311,
+                "cod_catast": "25010102049003",
+                "cod_manz": "02049",
+                "mz_cat": "049",
+                "sector": "02",
+                "lote": "003",
+                "cod_lote": "02049003",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.530587741617467, -8.378726707902713]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3312,
+                "cod_catast": "25010102049022",
+                "cod_manz": "02049",
+                "mz_cat": "049",
+                "sector": "02",
+                "lote": "022",
+                "cod_lote": "02049022",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.531047775754672, -8.379248496747275]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3313,
+                "cod_catast": "25010102024022",
+                "cod_manz": "02024",
+                "mz_cat": "024",
+                "sector": "02",
+                "lote": "022",
+                "cod_lote": "02024022",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.530341830966961, -8.375614793291936]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3811,
+                "cod_catast": "25010102029001",
+                "cod_manz": "02029",
+                "mz_cat": "029",
+                "sector": "02",
+                "lote": "001",
+                "cod_lote": "02029001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.53103095043106, -8.37707459574753]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3812,
+                "cod_catast": "25010102029027",
+                "cod_manz": "02029",
+                "mz_cat": "029",
+                "sector": "02",
+                "lote": "027",
+                "cod_lote": "02029027",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.531219047167212, -8.377521347316563]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3813,
+                "cod_catast": "25010102029030",
+                "cod_manz": "02029",
+                "mz_cat": "029",
+                "sector": "02",
+                "lote": "030",
+                "cod_lote": "02029030",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.531164283872187, -8.377300892841019]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3814,
+                "cod_catast": "25010102029033",
+                "cod_manz": "02029",
+                "mz_cat": "029",
+                "sector": "02",
+                "lote": "033",
+                "cod_lote": "02029033",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.531073407115713, -8.377132751014225]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3815,
+                "cod_catast": "25010101023009",
+                "cod_manz": "01023",
+                "mz_cat": "023",
+                "sector": "01",
+                "lote": "009",
+                "cod_lote": "01023009",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.532956938593031, -8.38114382781407]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3816,
+                "cod_catast": "25010101036029",
+                "cod_manz": "01036",
+                "mz_cat": "036",
+                "sector": "01",
+                "lote": "029",
+                "cod_lote": "01036029",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.530583488478371, -8.380270058447637]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3817,
+                "cod_catast": "25010101047009",
+                "cod_manz": "01047",
+                "mz_cat": "047",
+                "sector": "01",
+                "lote": "009",
+                "cod_lote": "01047009",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.529033085332017, -8.381079089028237]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3818,
+                "cod_catast": "25010101047017",
+                "cod_manz": "01047",
+                "mz_cat": "047",
+                "sector": "01",
+                "lote": "017",
+                "cod_lote": "01047017",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.529436779812684, -8.381648610502692]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 3819,
+                "cod_catast": "25010101006029",
+                "cod_manz": "01006",
+                "mz_cat": "006",
+                "sector": "01",
+                "lote": "029",
+                "cod_lote": "01006029",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.5348674563771, -8.377632119647725]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4311,
+                "cod_catast": "25010101004001",
+                "cod_manz": "01004",
+                "mz_cat": "004",
+                "sector": "01",
+                "lote": "001",
+                "cod_lote": "01004001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536019617178013, -8.378808401148126]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4312,
+                "cod_catast": "25010101001031",
+                "cod_manz": "01001",
+                "mz_cat": "001",
+                "sector": "01",
+                "lote": "031",
+                "cod_lote": "01001031",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.538014569999902, -8.381750458164639]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4313,
+                "cod_catast": "25010101001032",
+                "cod_manz": "01001",
+                "mz_cat": "001",
+                "sector": "01",
+                "lote": "032",
+                "cod_lote": "01001032",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.537868609722153, -8.381627790205926]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4314,
+                "cod_catast": "25010101010025",
+                "cod_manz": "01010",
+                "mz_cat": "010",
+                "sector": "01",
+                "lote": "025",
+                "cod_lote": "01010025",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536051013846944, -8.380907646517626]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4315,
+                "cod_catast": "25010101010019",
+                "cod_manz": "01010",
+                "mz_cat": "010",
+                "sector": "01",
+                "lote": "019",
+                "cod_lote": "01010019",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536062732364215, -8.381270636916742]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4316,
+                "cod_catast": "25010101038014",
+                "cod_manz": "01038",
+                "mz_cat": "038",
+                "sector": "01",
+                "lote": "014",
+                "cod_lote": "01038014",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.531580505305769, -8.382772223587047]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4317,
+                "cod_catast": "25010101024025",
+                "cod_manz": "01024",
+                "mz_cat": "024",
+                "sector": "01",
+                "lote": "025",
+                "cod_lote": "01024025",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.534309283964063, -8.381976848046074]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4318,
+                "cod_catast": "25010101041010",
+                "cod_manz": "01041",
+                "mz_cat": "041",
+                "sector": "01",
+                "lote": "010",
+                "cod_lote": "01041010",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.533242445523896, -8.385073738052652]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4319,
+                "cod_catast": "25010101033008",
+                "cod_manz": "01033",
+                "mz_cat": "033",
+                "sector": "01",
+                "lote": "008",
+                "cod_lote": "01033008",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.532170601355432, -8.381765936730371]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4320,
+                "cod_catast": "25010101044001",
+                "cod_manz": "01044",
+                "mz_cat": "044",
+                "sector": "01",
+                "lote": "001",
+                "cod_lote": "01044001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.531481117693957, -8.383256745102559]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4813,
+                "cod_catast": "25010101055008",
+                "cod_manz": "01055",
+                "mz_cat": "055",
+                "sector": "01",
+                "lote": "008",
+                "cod_lote": "01055008",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.529871458067163, -8.385842152639297]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4814,
+                "cod_catast": "25010101032022",
+                "cod_manz": "01032",
+                "mz_cat": "032",
+                "sector": "01",
+                "lote": "022",
+                "cod_lote": "01032022",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.532720806925951, -8.381389324392213]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4815,
+                "cod_catast": "25010101049006",
+                "cod_manz": "01049",
+                "mz_cat": "049",
+                "sector": "01",
+                "lote": "006",
+                "cod_lote": "01049006",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.529114398701395, -8.382986876135194]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 4816,
+                "cod_catast": "25010108026004",
+                "cod_manz": "08026",
+                "mz_cat": "026",
+                "sector": "08",
+                "lote": "004",
+                "cod_lote": "08026004",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.547635525572318, -8.378229451568796]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 5313,
+                "cod_catast": "25010101047011",
+                "cod_manz": "01047",
+                "mz_cat": "047",
+                "sector": "01",
+                "lote": "011",
+                "cod_lote": "01047011",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.529133062577671, -8.381214402309814]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 5814,
+                "cod_catast": "25010103083013",
+                "cod_manz": "03083",
+                "mz_cat": "083",
+                "sector": "03",
+                "lote": "013",
+                "cod_lote": "03083013",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 1.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536322157339569, -8.378053703814251]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 5815,
+                "cod_catast": "25010103090007",
+                "cod_manz": "03090",
+                "mz_cat": "090",
+                "sector": "03",
+                "lote": "007",
+                "cod_lote": "03090007",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.532415791550847, -8.372676855969413]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 6315,
+                "cod_catast": "25010103021002",
+                "cod_manz": "03021",
+                "mz_cat": "021",
+                "sector": "03",
+                "lote": "002",
+                "cod_lote": "03021002",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.54084619348896, -8.375322061160368]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 6316,
+                "cod_catast": "25010103082010",
+                "cod_manz": "03082",
+                "mz_cat": "082",
+                "sector": "03",
+                "lote": "010",
+                "cod_lote": "03082010",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536823468978582, -8.378814897045622]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 6816,
+                "cod_catast": "25010103023025",
+                "cod_manz": "03023",
+                "mz_cat": "023",
+                "sector": "03",
+                "lote": "025",
+                "cod_lote": "03023025",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.540291373049754, -8.37662265120272]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 6817,
+                "cod_catast": "25010103076024",
+                "cod_manz": "03076",
+                "mz_cat": "076",
+                "sector": "03",
+                "lote": "024",
+                "cod_lote": "03076024",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.5360055616474, -8.375750203383829]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 7818,
+                "cod_catast": "25010101004016",
+                "cod_manz": "01004",
+                "mz_cat": "004",
+                "sector": "01",
+                "lote": "016",
+                "cod_lote": "01004016",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536370974389229, -8.379430530420759]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 7819,
+                "cod_catast": "25010101003007",
+                "cod_manz": "01003",
+                "mz_cat": "003",
+                "sector": "01",
+                "lote": "007",
+                "cod_lote": "01003007",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536303018663929, -8.380202971602261]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 7820,
+                "cod_catast": "25010101059003",
+                "cod_manz": "01059",
+                "mz_cat": "059",
+                "sector": "01",
+                "lote": "003",
+                "cod_lote": "01059003",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.52779674159558, -8.382462269447574]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 10323,
+                "cod_catast": "25010106045013",
+                "cod_manz": "06045",
+                "mz_cat": "045",
+                "sector": "06",
+                "lote": "013",
+                "cod_lote": "06045013",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.555063599652058, -8.377819641358231]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 12327,
+                "cod_catast": "25010107025032",
+                "cod_manz": "07025",
+                "mz_cat": "025",
+                "sector": "07",
+                "lote": "032",
+                "cod_lote": "07025032",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.549746432676955, -8.379444313508097]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 12328,
+                "cod_catast": "25010107055004",
+                "cod_manz": "07055",
+                "mz_cat": "055",
+                "sector": "07",
+                "lote": "004",
+                "cod_lote": "07055004",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.548899196129426, -8.383630336348299]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 12828,
+                "cod_catast": "25010109075003",
+                "cod_manz": "09075",
+                "mz_cat": "075",
+                "sector": "09",
+                "lote": "003",
+                "cod_lote": "09075003",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536937404221362, -8.392724668725277]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 13329,
+                "cod_catast": "25010109002001",
+                "cod_manz": "09002",
+                "mz_cat": "002",
+                "sector": "09",
+                "lote": "001",
+                "cod_lote": "09002001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.534150248625124, -8.385213421920831]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 13330,
+                "cod_catast": "25010109002019",
+                "cod_manz": "09002",
+                "mz_cat": "002",
+                "sector": "09",
+                "lote": "019",
+                "cod_lote": "09002019",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.534276184147899, -8.385609365518476]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 13331,
+                "cod_catast": "25010109003020",
+                "cod_manz": "09003",
+                "mz_cat": "003",
+                "sector": "09",
+                "lote": "020",
+                "cod_lote": "09003020",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.533052556829418, -8.386629476850663]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 13332,
+                "cod_catast": "25010109003030",
+                "cod_manz": "09003",
+                "mz_cat": "003",
+                "sector": "09",
+                "lote": "030",
+                "cod_lote": "09003030",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.533268605303363, -8.387157008890973]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 13830,
+                "cod_catast": "25010109006007",
+                "cod_manz": "09006",
+                "mz_cat": "006",
+                "sector": "09",
+                "lote": "007",
+                "cod_lote": "09006007",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.530524928207157, -8.38781356705176]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 13831,
+                "cod_catast": "25010109013010",
+                "cod_manz": "09013",
+                "mz_cat": "013",
+                "sector": "09",
+                "lote": "010",
+                "cod_lote": "09013010",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.532361182662427, -8.387705527539774]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 14331,
+                "cod_catast": "25010109001007",
+                "cod_manz": "09001",
+                "mz_cat": "001",
+                "sector": "09",
+                "lote": "007",
+                "cod_lote": "09001007",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.534820788678829, -8.384871813413366]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 19842,
+                "cod_catast": "25010111065001",
+                "cod_manz": "11065",
+                "mz_cat": "065",
+                "sector": "11",
+                "lote": "001",
+                "cod_lote": "11065001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.546145202715337, -8.390524850778585]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 21345,
+                "cod_catast": "25010110013002",
+                "cod_manz": "10013",
+                "mz_cat": "013",
+                "sector": "10",
+                "lote": "002",
+                "cod_lote": "10013002",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.53611117673529, -8.383884618106656]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 21346,
+                "cod_catast": "25010110013005",
+                "cod_manz": "10013",
+                "mz_cat": "013",
+                "sector": "10",
+                "lote": "005",
+                "cod_lote": "10013005",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.535889791236912, -8.383989342388432]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 22347,
+                "cod_catast": "25010110010005",
+                "cod_manz": "10010",
+                "mz_cat": "010",
+                "sector": "10",
+                "lote": "005",
+                "cod_lote": "10010005",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.537024965646793, -8.383195349679811]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 22848,
+                "cod_catast": "25010110008024",
+                "cod_manz": "10008",
+                "mz_cat": "008",
+                "sector": "10",
+                "lote": "024",
+                "cod_lote": "10008024",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.538361753280455, -8.383170670528207]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 23349,
+                "cod_catast": "25010118021001",
+                "cod_manz": "18021",
+                "mz_cat": "021",
+                "sector": "18",
+                "lote": "001",
+                "cod_lote": "18021001",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.603235613192368, -8.403942803972956]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 25854,
+                "cod_catast": "25010101011009",
+                "cod_manz": "01011",
+                "mz_cat": "011",
+                "sector": "01",
+                "lote": "009",
+                "cod_lote": "01011009",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.536226235105715, -8.382210437852576]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 25855,
+                "cod_catast": "25010101051004",
+                "cod_manz": "01051",
+                "mz_cat": "051",
+                "sector": "01",
+                "lote": "004",
+                "cod_lote": "01051004",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.530328241221866, -8.38409359405801]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "gid": 26856,
+                "cod_catast": "25010110051012",
+                "cod_manz": "10051",
+                "mz_cat": "051",
+                "sector": "10",
+                "lote": "012",
+                "cod_lote": "10051012",
+                "agen_banc": 0.000000,
+                "comisaria": 0.000000,
+                "deportivo": 0.000000,
+                "educacion": 0.000000,
+                "estac_serv": 0.000000,
+                "hospedaje": 0.000000,
+                "instituc": 0.000000,
+                "religioso": 0.000000,
+                "salud": 1.000000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.543518259091059, -8.391881995743216]
+            }
+        }
+    ]
+}
