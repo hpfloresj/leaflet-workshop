@@ -15,12 +15,12 @@ function addGeoJsonToMap(map, url, layerName, showByDefault, customIcon, customS
             pointToLayer: function (feature, latlng) {
                 return L.marker(latlng, customIcon ? {icon: customIcon} : {});
             } ,
-            onEachFeature: customOperation,
-            style: customStyle 
+            style: customStyle, 
+            onEachFeature: customOperation 
         });
         if (showByDefault) {
             layer.addTo(map);
         }  
-        L.control.addOverlay(layer, layerName);          
+        layersCtrl.addOverlay(layer, layerName);          
     });    
 }   

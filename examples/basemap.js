@@ -79,5 +79,5 @@ map.addLayer(park_layer);
 map.addLayer(block_layer);
 
 // Add baseLayers & overlay to the map
-L.control.layers(baseLayers, overlayBase).addTo(map);
+var layersCtrl = L.control.layers(baseLayers, overlayBase).addTo(map);
 L.control.scale().addTo(map);
