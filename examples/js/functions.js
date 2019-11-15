@@ -8,7 +8,7 @@
  * @param {*} customStyle, this an object 
  * @param {*} customOperation, this a function 
  */
-function addGeoJsonToMap(map, url, layerName, showByDefault, customIcon, customStyle, customOperation) {
+function addGeoJsonToMap(map, url, layerName, showByDefault, customIcon, customStyle, customOperation) {    
     $.get(url, function(data) {
         var layer =
         L.geoJSON(data, {
@@ -21,6 +21,6 @@ function addGeoJsonToMap(map, url, layerName, showByDefault, customIcon, customS
         if (showByDefault) {
             layer.addTo(map);
         }  
-        layersCtrl.addOverlay(layer, layerName);          
-    });    
+        layersCtrl.addOverlay(layer, layerName);                  
+    });     
 }   
