@@ -15,6 +15,10 @@ var osm_mapnik = L.tileLayer(
   }
 );
 
+var esri_WorldImagery = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+}).bringToBack();
+
 // Set default basemap
 var square_layer = L.tileLayer
   .wms(geoserver_wms, {
@@ -29,7 +33,8 @@ var square_layer = L.tileLayer
 // Create base layers group object
 var baseLayers = {
   "OSM Mapnik": osm_mapnik,
-  Squares: square_layer
+  Squares: square_layer,
+  "Esri WorldImagery": esri_WorldImagery
 };
 
 // Overlay layers
@@ -69,12 +74,12 @@ var park_layer = L.tileLayer.wms(geoserver_wms, {
 var overlayBase = {
   Blocks: block_layer,
   Parks: park_layer,
-  Streets: street_layer,
-  Sectors: sector_layer
+  Streets: street_layer,  
+  Sectors: sector_layer  
 };
 
-map.addLayer(sector_layer);
 map.addLayer(street_layer);
+map.addLayer(sector_layer);
 map.addLayer(park_layer);
 map.addLayer(block_layer);
 
