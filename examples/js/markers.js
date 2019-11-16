@@ -1,9 +1,9 @@
 // L.icon define the icon we're going to use for the rodent points.
 var markerIcon = new L.Icon({
     iconSize: [24, 24], // is a two-number array of the pixel width and height of the icon
-  iconAnchor: [12, 12],
-  popupAnchor: [0, -18],
-  iconUrl: 'image/marker-pink.png'
+    iconAnchor: [12, 12],
+    popupAnchor: [0, -18],
+    iconUrl: 'image/marker-pink.png'
 });
 
 // this is an anonymous function (an unnamed function)
