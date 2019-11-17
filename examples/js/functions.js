@@ -23,6 +23,6 @@ function addGeoJsonToMap(map, url, layerName, showByDefault, customIcon, customS
             layer.addTo(map);
         }  
         
-        layersCtrl.addOverlay(layer, layerName); 
+        layersCtrl.addOverlay(layer, layerName); // this is a global variable defined in basemap.js        
     });     
 }   

@@ -1,19 +1,3 @@
-/* 
- * Leaflet Control Search v2.9.7 - 2019-01-14 
- * 
- * Copyright 2019 Stefano Cudini 
- * stefano.cudini@gmail.com 
- * http://labs.easyblog.it/ 
- * 
- * Licensed under the MIT license. 
- * 
- * Demo: 
- * http://labs.easyblog.it/maps/leaflet-search/ 
- * 
- * Source: 
- * git@github.com:stefanocudini/leaflet-search.git 
- * 
- */
 /*
 	Name					Data passed			   Description
 
@@ -103,7 +87,7 @@ L.Control.Search = L.Control.extend({
 		hideMarkerOnCollapse: false,    //remove circle and marker on search control collapsed		
 		position: 'topleft',		
 		marker: {						//custom L.Marker or false for hide
-			icon: false,				//custom L.Icon for maker location or false for hide
+			//icon: false,				//custom L.Icon for maker location or false for hide
 			animate: true,				//animate a circle over location found
 			circle: {					//draw a circle in location found
 				radius: 10,
