@@ -4,8 +4,8 @@ var url = "http://localhost:8083/get_features.php";
 
 function onMapClick(e) {
   $.getJSON(url, {
-    lat: e.latlng.lng,
-    lng: e.latlng.lat
+    lat: e.latlng.lat,
+    lng: e.latlng.lng
   }).done(function(data) {
     var popupContent = "";
     if (lgeojson != null) {
