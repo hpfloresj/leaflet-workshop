@@ -1,5 +1,5 @@
 // Global variables
-var geoserver_wms = "http://gis.amazonicdata.com/geoserver/wms?";
+var geoserver_wms = "http://localhost:8080/geoserver/wms?";
 var owner_attribution = "Geomap - Pucallpa city, Perú";
 
 // Set the position(center x,y) and zoom level of the map
