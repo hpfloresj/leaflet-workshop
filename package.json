@@ -12,7 +12,7 @@
         "start": "node server.js"
     },
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "leaflet": "^1.5.1",
         "leaflet-choropleth": "^1.1.4",
         "leaflet.locatecontrol": "^0.67.0",
